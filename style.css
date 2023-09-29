@@ -1,0 +1,38 @@
+canvas{
+    animation-name: bestfriends;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+    margin-top: 140px;
+}
+@keyframes bestfriends{
+    from{box-shadow: 3px 1px 100px rgb(183, 0, 255);}
+    to{box-shadow: 3px 1px 100px rgb(0, 136, 255);}
+}
+#sketchimg{
+    float: right;
+    margin-right: 20px;
+}
+label{
+    font-size: 20px;
+}
+h1{
+    font-style: italic;
+    letter-spacing: 2px;
+}
+body{
+    background-color: beige;
+}
+
+#cc{
+    font-size: 18px;
+}
+span{
+    font-size: 20px;
+}
+#time{
+    float: right;
+    margin-right: 20px;
+}
+#score{
+    margin-left: 15px;
+}
